@@ -1,4 +1,5 @@
 ## Hi there 👋
+## iOS Developer | Proficient in Objective-C++ & CS Fundamentals
 
 <!--
 **Ribacha/Ribacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
