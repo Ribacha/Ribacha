@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## iOS Developer | Proficient in Objective-C++ & CS Fundamentals
-![Static Badge](https://img.shields.io/badge/obj-c)
+![Static Badge](https://img.shields.io/badge/Objective-C)
+
 
 
 <!--
