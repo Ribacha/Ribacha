@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## iOS Developer | Proficient in Objective-C++ & CS Fundamentals
+https://img.shields.io/badge/obj-c
 
 <!--
 **Ribacha/Ribacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
