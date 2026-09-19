@@ -1,6 +1,6 @@
 <!-- 🕷️ 这是你的 GitHub 首页，想改内容直接点右上角铅笔编辑即可 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E62429,50:8B1E3F,100:1B1B3A&text=Ribacha&fontSize=54&fontColor=F0F6FC&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20iOS%20Developer&descSize=15&descAlignY=58&descColor=C9D1D9&animation=fadeIn" alt="banner" />
+<img width="100%" src="assets/spidey-banner.svg" alt="Ribacha — covered by a spider web" />
 
 <div align="center">
 
