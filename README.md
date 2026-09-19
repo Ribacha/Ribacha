@@ -99,4 +99,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1B1B3A,50:8B1E3F,100:E62429&section=footer" alt="footer" />
+<img width="100%" src="assets/spidey-footer.svg" alt="footer" />
