@@ -1,101 +1,102 @@
-<!-- ✏️ 这个 README 就是你 GitHub 首页的样子，随时可以直接编辑它换内容/换主题 -->
+<!-- 🕷️ 这是你的 GitHub 首页，想改内容直接点右上角铅笔编辑即可 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:e8a0bf,50:9d8df1,100:6f69ac&text=Ribacha&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E62429,50:8B1E3F,100:1B1B3A&text=Ribacha&fontSize=54&fontColor=F0F6FC&fontAlignY=36&desc=Your%20Friendly%20Neighborhood%20iOS%20Developer&descSize=15&descAlignY=58&descColor=C9D1D9&animation=fadeIn" alt="banner" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FE4284&center=true&vCenter=true&random=false&width=620&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF+Ribacha+%F0%9F%91%8B%3B%E4%B8%80%E5%90%8D%E7%88%B1%E6%8A%98%E8%85%BE%E7%9A%84+iOS+%E5%BC%80%E5%8F%91%E8%80%85+%F0%9F%8E%89%3BObjective-C%2B%2B+%E7%8E%A9%E5%AE%B6+%C2%B7+CS+%E5%9F%BA%E7%A1%80%E5%B0%8F%E8%83%BD%E6%89%8B+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&pause=1000&color=E62429&center=true&vCenter=true&random=false&width=560&height=44&lines=%F0%9F%95%B7%EF%B8%8F%20%E4%BD%A0%E7%9A%84%E5%8F%8B%E5%A5%BD%E9%82%BB%E5%B1%85%20%C2%B7%20iOS%20%E5%BC%80%E5%8F%91%E8%80%85%3B%E8%83%BD%E5%8A%9B%E8%B6%8A%E5%A4%A7%EF%BC%8C%E8%B4%A3%E4%BB%BB%E8%B6%8A%E5%A4%A7%3BObjective-C%2B%2B%20%E7%8E%A9%E5%AE%B6%20%C2%B7%20%E4%BF%AE%E7%82%BC%20CS%20%E5%86%85%E5%8A%9F%3B%E7%99%BD%E5%A4%A9%E5%86%99%E4%BB%A3%E7%A0%81%20%C2%B7%20%E6%99%9A%E4%B8%8A%E8%8D%A1%E8%9B%9B%E4%B8%9D)](https://git.io/typing-svg)
 
-**🎈 快乐敲码，认真折腾，坑坑不息**
+<img src="https://komarev.com/ghpvc/?username=Ribacha&style=flat-square&label=Visitors&labelColor=0D1117&color=E62429" alt="visitors" />
 
-<img src="https://komarev.com/ghpvc/?username=Ribacha&style=for-the-badge&color=FE4284&label=%E8%AE%BF%E5%AE%A2%E6%95%B0" alt="visitors" />
+<br/>
+
+<img width="245" src="assets/spidey-dive.gif" alt="Spider-Man diving between skyscrapers" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ 关于我
+## 🕸️ 关于我
 
 ```objc
-// Ribacha.h —— 一个快乐的 iOS 开发者
+// Ribacha.h —— 你的友好邻居 🕷️
 @interface Ribacha : NSObject
-@property (nonatomic, copy)   NSString  *mood;      // 😄 快乐
+@property (nonatomic, copy)   NSString  *motto;    // 能力越大，责任越大
 @property (nonatomic, assign) NSInteger  coffee;    // ☕️ 永远差一杯
 @end
 
 @implementation Ribacha
-- (void)dailyRoutine {
-    while (YES) {
-        [self writeCode];
-        [self fixBugs];        // 🐛 修的 bug 大多是自己埋的
-        self.coffee += 1;
+- (void)spiderSense {   // 蛛丝感应：bug 靠近时自动报警
+    while (![bug isFixed]) {
+        [self debug];
+        [self drinkCoffee];
     }
 }
 @end
 ```
 
-- 🎯 **主业**：iOS 开发，Objective-C++ 老玩家
-- 🧠 **内功**：计算机基础爱好者，喜欢抠底层细节
-- 🌱 **状态**：活到老学到老，正在解锁新技能
-- 💬 **欢迎聊**：iOS、底层原理、好用的工具、脚本折腾
-- ⚡ **小秘密**：这个首页是和 AI 一起捣鼓出来的 ✨
-- ⭐ **许愿**：逛仓库的时候，顺手点个小星星呗~
+- 🎯 **主业**：iOS 开发，Objective-C++ 就是我的蛛丝
+- 🧠 **内功**：死磕计算机基础，喜欢抠底层细节
+- 🌱 **修炼中**：新技能一个一个点亮，不着急
+- 💬 **欢迎聊**：iOS 底层原理 · 工具折腾 · 蜘蛛侠电影
 
 ---
 
-## 🛠️ 我的工具箱
+## 🕷️ 装备库
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=objc,cpp,c,swift,xcode,git,githubactions,apple&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,swift,git,githubactions,apple&theme=dark" alt="skills" />
 </a>
 
-<br/>
+<br/><br/>
 
-![数据结构](https://img.shields.io/badge/数据结构-✅-brightgreen?style=flat-square)
-![算法](https://img.shields.io/badge/算法-✅-brightgreen?style=flat-square)
-![操作系统](https://img.shields.io/badge/操作系统-✅-brightgreen?style=flat-square)
-![计算机网络](https://img.shields.io/badge/计算机网络-✅-brightgreen?style=flat-square)
-![设计模式](https://img.shields.io/badge/设计模式-✅-brightgreen?style=flat-square)
+![Objective-C++](https://img.shields.io/badge/Objective--C%2B%2B-E62429?style=flat-square&labelColor=161B22)
+![Xcode](https://img.shields.io/badge/Xcode-E62429?style=flat-square&labelColor=161B22)
+![iOS](https://img.shields.io/badge/iOS-E62429?style=flat-square&labelColor=161B22)
+
+</div>
+
+## 🧠 内功心法
+
+<div align="center">
+
+![数据结构与算法](https://img.shields.io/badge/数据结构与算法-E62429?style=flat-square&labelColor=161B22)
+![操作系统](https://img.shields.io/badge/操作系统-E62429?style=flat-square&labelColor=161B22)
+![计算机网络](https://img.shields.io/badge/计算机网络-E62429?style=flat-square&labelColor=161B22)
+![设计模式](https://img.shields.io/badge/设计模式-E62429?style=flat-square&labelColor=161B22)
 
 </div>
 
 ---
 
-## 📊 GitHub 小骄傲
+## 📊 蜘蛛战绩
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Ribacha&theme=synthwave&hide_border=true" alt="streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=Ribacha&hide_border=true&background=0D1117&ring=E62429&fire=8B1E3F&currStreakNum=F0F6FC&currStreakLabel=E62429&sideNums=C9D1D9&sideLabels=8B949E&dates=555F6B" alt="streak" />
 
 <br/>
-<br/>
 
-**🗓️ 贡献格子衫**（披上它，就是全村最靓的仔）
+**🗓️ 贡献之网**（蛛丝织得越密，城市越安全）
 
-<a href="https://github.com/Ribacha">
-  <img width="95%" src="https://ghchart.rshah.org/e8a0bf/Ribacha" alt="Ribacha's GitHub chart" />
-</a>
+<img width="95%" src="https://ghchart.rshah.org/E62429/Ribacha" alt="contribution graph" />
 
 </div>
 
 ---
 
-## 🍀 每日一句
+## 😆 写 bug 的我 · 修 bug 的我
 
 <div align="center">
-  <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+
+<img width="360" src="assets/spidey-point.gif" alt="Spider-Man pointing at Spider-Man" />
+
 </div>
+
+> 🕷️ **能力越大，责任越大。** —— 本叔
 
 ---
 
-<div align="center">
-
-### 🐛 遇到 bug 怎么办？
-
-**先重启试试，不行就睡觉，明天它自己就好了** 😴✨
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6f69ac,50:9d8df1,100:e8a0bf&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1B1B3A,50:8B1E3F,100:E62429&section=footer" alt="footer" />
